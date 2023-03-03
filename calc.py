@@ -11,4 +11,7 @@ elif symbol == "-":
 elif symbol == "*":
     ans = num1 * num2
 
+elif symbol == "/":
+    ans = num1 / num2
+
 print("The answer is: ", num1)
